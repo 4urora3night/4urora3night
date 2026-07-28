@@ -1,3 +1,4 @@
-👋 Hello world
-I am a chromebook user passtionate for all things computer and machine related.\
-❤️ Nice to meet you!
+# 👋 Hello world 🌍 
+I am a chromebook user passionate for all things software and hardware related.\
+Problems and the search for their solution is a journey I enjoy. \
+❤️ Nice to meet you, See you around!
